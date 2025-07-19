@@ -31,7 +31,7 @@ python carenscanner.py
 
 ## Eerste run
 
-Start het script via python carenzorgt_monitor.py.
+Start het script via python carenscanner.py.
 Er opent een browservenster (niet headless).
 
 Log in op CarenZorgt:
