@@ -27,7 +27,7 @@ playwright install
    TWILIO_RECIPIENTS = ["+316..."]
    
 3. Run 
-python carenzorgt_monitor.py
+python carenscanner.py
 
 ## Eerste run
 
