@@ -6,16 +6,16 @@ from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeo
 import requests
 
 # Instellingen
-CARENPAGE_URL = "https://www.carenzorgt.nl/person/[ID]/dossier"
+CARENPAGE_URL = "https://www.carenzorgt.nl/person/[ID hier]/dossier"
 PROFILE_DIR = ".caren_profile"
 ENTRIES_FILE = "entries.json"
-SLEEP_INTERVAL = 600  # 10 minuten in seconden
+SLEEP_INTERVAL = 600  # 10 minuten
 
 # Twilio-config
 TWILIO_ACCOUNT_SID = ""
 TWILIO_AUTH_TOKEN = ""
 TWILIO_FROM = ""
-TWILIO_RECIPIENTS = [""]
+TWILIO_RECIPIENTS = ["+316........", "+316........", "+316........"]
 
 # Helper
 def save_entries(entries):
