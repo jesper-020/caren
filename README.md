@@ -31,7 +31,7 @@ python carenzorgt_monitor.py
 
 ## Eerste run
 
-Start het script gewoon via python carenzorgt_monitor.py.
+Start het script via python carenzorgt_monitor.py.
 Er opent een browservenster (niet headless).
 
 Log in op CarenZorgt:
@@ -41,4 +41,6 @@ Zet een vinkje bij "Blijf ingelogd"
 Klik op "Inloggen"
 Wacht tot je op de dossierpagina bent en de rapportages zichtbaar zijn.
 Ga dan terug naar de terminal en druk op Enter.
-Dat is alles. Het script slaat de sessie lokaal op in .caren_profile/, zodat je de volgende keren automatisch ingelogd bent. Je hoeft daarna dus niks meer handmatig te doen zolang die sessie geldig blijft.
+Het script slaat de sessie lokaal op in .caren_profile/, zodat je de volgende keren automatisch ingelogd bent. Je hoeft daarna dus niks meer handmatig te doen zolang die sessie geldig blijft.
+
+Moge Allah vergemakkelijken voor wie waakt over een geliefde.
