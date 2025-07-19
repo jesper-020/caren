@@ -43,4 +43,4 @@ Wacht tot je op de dossierpagina bent en de rapportages zichtbaar zijn.
 Ga dan terug naar de terminal en druk op Enter.
 Het script slaat de sessie lokaal op in .caren_profile/, zodat je de volgende keren automatisch ingelogd bent. Je hoeft daarna dus niks meer handmatig te doen zolang die sessie geldig blijft.
 
-Moge Allah vergemakkelijken voor wie waakt over een geliefde.
+Moge Allah jou rust en kracht geven.
