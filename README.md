@@ -1,4 +1,4 @@
-# CarenZorgt Dossier Scanner
+# CarenZorgt Dossier Scanner + SMS-alert
 
 Python-script dat elke 10 minuten controleert op nieuwe rapportages in een CarenZorgt-dossier. Bij nieuwe entries wordt automatisch een SMS verstuurd via Twilio (of gebruik een andere sms-gateway api).
 
