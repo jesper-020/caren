@@ -38,10 +38,10 @@ Er opent een browservenster (niet headless).
 Log in op CarenZorgt:
 Typ je e-mailadres en wachtwoord
 
-Zet een vinkje bij "Blijf ingelogd"
-Klik op "Inloggen"
+Zet een vinkje bij "Blijf ingelogd".
+Klik op "Inloggen".
 Wacht tot je op de dossierpagina bent en de rapportages zichtbaar zijn.
 Ga dan terug naar de terminal en druk op Enter.
 Het script slaat de sessie lokaal op in .caren_profile/, zodat je de volgende keren automatisch ingelogd bent. Je hoeft daarna dus niks meer handmatig te doen zolang die sessie geldig blijft.
 
-Moge Allah jou rust en kracht geven.
+Moge Allah rust en kracht geven.
