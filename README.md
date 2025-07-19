@@ -11,6 +11,7 @@ Python-script dat elke 10 minuten controleert op nieuwe rapportages in een Caren
 
 ## Installatie
 pip install playwright
+
 playwright install
 
 ## Setup
