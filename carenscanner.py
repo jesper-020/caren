@@ -55,7 +55,7 @@ def send_sms_alert(timestamp, body):
         else:
             print(f"Fout bij verzenden naar {nummer}: {response.text}", flush=True)
 
-        time.sleep(10)  # 10 seconden pauze tussen SMS'en
+        time.sleep(10)  # 10 seconden pauze tussen SMS'en, ivm twilio rate-limit
 
 def parse_entries(page):
     entry_elements = page.locator("li.mod-dossier-entry")
